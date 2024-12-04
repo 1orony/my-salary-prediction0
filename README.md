@@ -23,28 +23,6 @@ Ce projet est une application de machine learning qui prédit les salaires en fo
 
 ---
 
-## **📂 Structure du Projet**
-```plaintext
-prediction-de-salaire/
-│
-├── data/
-│   ├── raw/         # Données brutes
-│   ├── processed/   # Données prétraitées
-│
-├── notebooks/
-│   ├── exploration.ipynb  # Analyse exploratoire des données
-│   ├── model_training.ipynb  # Entraînement du modèle
-│
-├── src/
-│   ├── preprocess.py  # Fonctions de prétraitement
-│   ├── models.py      # Définition des modèles et fonctions associées
-│   ├── utils.py       # Fonctions utilitaires
-│
-├── requirements.txt  # Dépendances du projet
-├── README.md         # Documentation du projet
-└── main.py           # Script principal pour exécution
-```
-
 ---
 
 ## **🚀 Comment Exécuter**
